@@ -1,8 +1,9 @@
-## Bem-vindo(a) ao perfil do Keygenw😁
+## Bem-vindo(a) ao perfil do Keygenw😁 Gabriel Henrique
 
  <div>
    <a href="https://github.com/Keygenw">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keygenw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keygenw&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
 </div>
