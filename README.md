@@ -1,5 +1,12 @@
 ## Bem-vindo(a) ao perfil do Keygenw 😁 Gabriel Henrique
-
+<br>
+<a href="https://github.com/Keygenw/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Keygenw" />
+</a>
+<a href="https://github.com/Keygenw/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keygenw&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br>
  
 
 </div>
