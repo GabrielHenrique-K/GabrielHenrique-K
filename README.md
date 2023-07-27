@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Keygenw 😁 Gabriel Henrique
 <br>
+
 <a href="https://github.com/Keygenw/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Keygenw" />
 </a>
@@ -10,14 +11,17 @@
  
 
 </div>
-<div style="display: inline_block"><br>
+<div align="left"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
- 
+<p align="center">
+<img src="https://i.pinimg.com/originals/3f/f3/64/3ff364f0234f0acfe29c6ba7685cadc6.gif"/>
+</p>
+
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
