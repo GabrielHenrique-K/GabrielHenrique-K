@@ -89,12 +89,12 @@
 <a href="https://www.linkedin.com/in/gabriel-henrique-da-silva-45a188248/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
-  <a href="https://steamcommunity.com/id/Katll/">
+</br>
+</br>
+</br>
+<a href="https://steamcommunity.com/id/Katll/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
-</br>
-</br>
-</br>
 </a>
  </p>
  
