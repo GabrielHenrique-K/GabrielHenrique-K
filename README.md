@@ -59,7 +59,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique-K" />
 </a>
 <a href="https://github.com/GabrielHenrique-K/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielHenrique-K&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielHenrique-K&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 <br>
