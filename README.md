@@ -59,6 +59,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique-K" />
 </a>
 </br>
+</br>
+</br>
 <a href="https://github.com/GabrielHenrique-K/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielHenrique-K&layout=compact&langs_count=8&card_width=340" />
 </a>
@@ -86,6 +88,7 @@
 </a>
 <a href="https://www.linkedin.com/in/gabriel-henrique-da-silva-45a188248/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
   <a href="https://steamcommunity.com/id/Katll/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
