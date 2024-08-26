@@ -106,7 +106,6 @@
 </br>
 </br>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GabrielHenrique-K/count.svg" /></p>
 
 
 
